@@ -18,18 +18,18 @@
 
 ## Critères de recherche
 
-| Critère | Détail / Valeur cible | Source de donnée |
+| Critère | Détail / Valeur cible |
 |---|---|---|
-| Type de bien | Appartement (T3/T4) | DVF |
-| Nombre de pièces | 3 à 4 pièces | DVF |
-| Localisation | Banlieue parisienne (Île-de-France) | DVF |
-| Distance aux transports | ≤ 10 min à pied d’une gare RER/métro (~800 m) | IDFM + coords DVF |
-| Budget maximal | ≤ 300 000 € | DVF |
-| Surface minimale | ≥ 60 m² | DVF |
-| Année du bien | Après 1980 si possible | (souvent indispo DVF) → indicatif |
-| Prix au m² | ≤ médiane de la commune (ou décote ≥ 10%) | DVF (agrégation par commune) |
-| Qualité de vie | présence d'écoles(<800m), espaces verts(< 1km), et sécurité minimale | INSEE/OSM/IDFM + scoring |
-| Tendance des prix | Évolution 3 ans ≥ 0% (stabilité/hausse) | DVF (2019–2024) |
+| Type de bien | Appartement (T3/T4) |
+| Nombre de pièces | 3 à 4 pièces |
+| Localisation | Banlieue parisienne (Île-de-France) |
+| Distance aux transports | ≤ 10 min à pied d’une gare RER/métro (~800 m) | IDFM + coords
+| Budget maximal | ≤ 300 000 € |
+| Surface minimale | ≥ 60 m² |
+| Année du bien | Après 1980 si possible |
+| Prix au m² | ≤ médiane de la commune (ou décote ≥ 10%) |
+| Qualité de vie | présence d'écoles(<800m), espaces verts(< 1km), et sécurité minimale |
+| Tendance des prix | Évolution 3 ans ≥ 0% (stabilité/hausse) |
 
 ---
 
