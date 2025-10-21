@@ -28,19 +28,5 @@
 | Surface minimale | ≥ 60 m² | DVF |
 | Année du bien | Après 1980 si possible | (souvent indispo DVF) → indicatif |
 | Prix au m² | ≤ médiane de la commune (ou décote ≥ 10%) | DVF (agrégation par commune) |
-| Qualité de vie | présence d'écoles(<800m), espaces verts(< 1km), et sécurité minimale | INSEE/OSM/IDFM + scoring |
+| Qualité de vie | présence d'écoles(≤ 800m), espaces verts(≤ 1km), et sécurité minimale | INSEE/OSM/IDFM|
 | Tendance des prix | Évolution 3 ans ≥ 0% (stabilité/hausse) | DVF (2019–2024) |
-
----
-
-## Indice de qualité de vie (score 0–100)
-
-Un indicateur synthétique combinant plusieurs dimensions :
-
-| Dimension | Description |
-|------------|--------------|
-| **Éducation** | Présence d’écoles et crèches à proximité |
-| **Mobilité** | Distance moyenne à la gare RER/métro la plus proche |
-| **Cadre de vie** | Espaces verts, niveau sonore, pollution |
-| **Commodités** | Commerces et services à moins de 500 m |
-| **Sécurité** | Taux de délinquance dans la commune |
